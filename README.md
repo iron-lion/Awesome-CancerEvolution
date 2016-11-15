@@ -20,6 +20,9 @@ Feel free to join this doc :D
 
 - **2012-03** | [Intratumor Heterogeneity and Branched Evolution Revealed by Multiregion Sequencing](http://www.nejm.org/doi/full/10.1056/NEJMoa1113205). | Marco Gerlinger, M.D., Andrew J. Rowan, B.Sc., Stuart Horswell, M.Math., James Larkin, M.D., Ph.D., David Endesfelder, Dip.Math., Eva Gronroos, Ph.D., Pierre Martinez, Ph.D., Nicholas Matthews, B.Sc., Aengus Stewart, M.Sc., Patrick Tarpey, Ph.D., Ignacio Varela, Ph.D., Benjamin Phillimore, B.Sc., Sharmin Begum, M.Sc., Neil Q. McDonald, Ph.D., Adam Butler, B.Sc., David Jones, M.Sc., Keiran Raine, M.Sc., Calli Latimer, B.Sc., Claudio R. Santos, Ph.D., Mahrokh Nohadani, H.N.C., Aron C. Eklund, Ph.D., Bradley Spencer-Dene, Ph.D., Graham Clark, B.Sc., Lisa Pickering, M.D., Ph.D., Gordon Stamp, M.D., Martin Gore, M.D., Ph.D., Zoltan Szallasi, M.D., Julian Downward, Ph.D., P. Andrew Futreal, Ph.D., and Charles Swanton, M.D., Ph.D. | **The New England Journal of Medicine**.
 
+- **2012-04** | [Evolution of the cancer genome](http://doi.org/10.1038/nrg3317). | Yates, Lucy R., and Peter J. Campbell | **Nature Reviews Genetics**.
+ 
+
 - **2013-06** | [Evolutionary dynamics of cancer in response to targeted combination therapy](https://elifesciences.org/content/2/e00747). | Ivana Bozic Johannes G Reiter Benjamin Allen Tibor Antal Krishnendu Chatterjee Preya Shah Yo Sup Moon Amin Yaqubie Nicole Kelly Dung T Le Evan J Lipson Paul B Chapman Luis A Diaz Jr Bert Vogelstein Martin A Nowak | **eLife**.
 
 - **2013-09** | [The causes and consequences of genetic heterogeneity in cancer evolution](http://www.nature.com/nature/journal/v501/n7467/full/nature12625.html). | Rebecca A. Burrell,	Nicholas McGranahan,	Jiri Bartek	& Charles Swanton | **Nature**.
@@ -34,11 +37,14 @@ Feel free to join this doc :D
 
 - **2015-02** | [A Big Bang model of human colorectal tumor growth](http://www.nature.com/ng/journal/v47/n3/full/ng.3214.html). | Andrea Sottoriva,	Haeyoun Kang,	Zhicheng Ma,	Trevor A Graham,	Matthew P Salomon, Junsong Zhao,	Paul Marjoram,	Kimberly Siegmund,	Michael F Press,	Darryl Shibata	& Christina Curtis | **Nature Genetics**.
 
+- **2015-04** | [Therapy-induced tumour secretomes promote resistance and tumour progression](http://doi.org/10.1038/nature14336). | Anna C. Obenauf,	Yilong Zou,	Andrew L. Ji,	Sakari Vanharanta,	Weiping Shu,	Hubing Shi, Xiangju Kong,	Marcus C. Bosenberg,	Thomas Wiesner,	Neal Rosen,	Roger S. Lo	& Joan Massagué | **Nature**.
+
 - **2015-06** | [Solutions to Peto’s paradox revealed by mathematical modelling and cross-species cancer gene analysis](http://doi.org/10.1098/rstb.2014.0222). | Aleah F. Caulin, Trevor A. Graham, Li-San Wang, Carlo C. Maley | **Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences**. 
 
 - **2015-06** | [Cancer across the tree of life: cooperation and cheating in multicellularity](http://doi.org/10.1098/rstb.2014.0219). | C. Athena Aktipis, Amy M. Boddy, Gunther Jansen, Urszula Hibner, Michael E. Hochberg, Carlo C. Maley, Gerald S. Wilkinson | **Philosophical Transactions of the Royal Society of London. Series B, Biological sciences**.
 
 - **2015-12** | [Clock-like mutational processes in human somatic cells](http://www.nature.com/ng/journal/v47/n12/full/ng.3441.html). | Ludmil B Alexandrov,	Philip H Jones,	David C Wedge,	Julian E Sale,	Peter J Campbell, Serena Nik-Zainal	& Michael R Stratton | **Nature Genetics**.
+
 
 - **2016-01** | [Identification of neutral tumor evolution across cancer types](http://doi.org/10.1038/ng.3489). | Marc J Williams,	Benjamin Werner,	Chris P Barnes,	Trevor A Graham	& Andrea Sottoriva | **Nature Genetics**. 
 
@@ -46,9 +52,13 @@ Feel free to join this doc :D
 
 - **2016-01** | [Pan-cancer analysis of intratumor heterogeneity as a prognostic determinant of survival](https://www.ncbi.nlm.nih.gov/pubmed/26840267). | Luc G.T. Morris, Nadeem Riaz, Alexis Desrichard, Yasin Şenbabaoğlu, A. Ari Hakimi, Vladimir Makarov, Jorge S. Reis-Filho and Timothy A. Chan | **Oncotarget**. 
 
+- **2016-03** | [Identification of neutral tumor evolution across cancer types](http://www.nature.com/ng/journal/v48/n3/full/ng.3489.html). | Marc J Williams,	Benjamin Werner,	Chris P Barnes,	Trevor A Graham	& Andrea Sottoriva | **Nature Genetics**.
+
 - **2016-07** | [Clonal evolution of glioblastoma under therapy](http://www.nature.com/ng/journal/v48/n7/full/ng.3590.html). | Jiguang Wang,	Emanuela Cazzato,	Erik Ladewig,	Veronique Frattini,	Daniel I S Rosenbloom,	Sakellarios Zairis,	Francesco Abate,	Zhaoqi Liu,	Oliver Elliott,	Yong-Jae Shin,	Jin-Ku Lee,	In-Hee Lee,	Woong-Yang Park,	Marica Eoli,	Andrew J Blumberg,	Anna Lasorella,	Do-Hyun Nam,	Gaetano Finocchiaro,	Antonio Iavarone	& Raul Rabadan | **Nature Genetics**.
 
 - **2016-10** | [Natural Selection in Cancer Biology: From Molecular Snowflakes to Trait Hallmarks](http://doi.org/10.1101/cshperspect.a029652). | Angelo Fortunato, Amy Boddy, Diego Mallo, Athena Aktipis, Carlo C. Maley and John W. Pepper | **Cold Spring Harbor Perspectives in Medicine**. 
+
+
 
 ### Algorithms for inference intratumor heterogeneity.
 
