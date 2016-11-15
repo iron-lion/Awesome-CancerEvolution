@@ -35,9 +35,7 @@ Feel free to join this doc :D
 
 - **2014-02** | [Inference of tumor evolution during chemotherapy by computational modeling and in situ analysis of genetic and phenotypic cellular diversity](http://doi.org/10.1016/j.celrep.2013.12.041). | Vanessa Almendro, Yu-Kang Cheng, Amanda Randles, Shalev Itzkovitz, Andriy Marusyk, Elisabet Ametller, Xavier Gonzalez-Farre, Montse Munoz, Hege G. Russnes, Aslaug Helland, Inga H. Rye, Anne-Lise Borresen-Dale, Reo Maruyama, Alexander van Oudenaarden, Mitchell Dowsett, Robin L. Jones, Jorge Reis-Filho, Pere Gascon, Mithat Gonen, Franziska Michor, Kornelia Polyak | **Cell Reports**.
 
-- **2014-08** | [Non-cell-autonomous driving of tumour growth supports sub-clonal heterogeneity](http://doi.org/10.1038/nature13556). | Andriy Marusyk,	Doris P. Tabassum,	Philipp M. Altrock,	Vanessa Almendro,	Franziska Michor	& Kornelia Polyak | **Nature**.
-
-- **2014-10** | [Non-cell-autonomous driving of tumour growth supports sub-clonal heterogeneity](http://www.nature.com/nature/journal/v514/n7520/full/nature13556.html). | Andriy Marusyk,	Doris P. Tabassum,	Philipp M. Altrock,	Vanessa Almendro,	Franziska Michor & Kornelia Polyak | **Nature**.
+- **2014-10** | [Non-cell-autonomous driving of tumour growth supports sub-clonal heterogeneity](http://doi.org/10.1038/nature13556). | Andriy Marusyk,	Doris P. Tabassum,	Philipp M. Altrock,	Vanessa Almendro,	Franziska Michor	& Kornelia Polyak | **Nature**.
 
 - **2014-10** | [Cancer evolution: mathematical models and computational inference](http://doi.org/10.1093/sysbio/syu081).| Niko Beerenwinkel, Roland F. Schwarz, Moritz Gerstung and Florian Markowetz | **Systematic Biology**. 
 
