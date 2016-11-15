@@ -3,6 +3,7 @@
 Papers for studying cancer evolution.
 
 Feel free to join this doc :D
+- **20??-??** | [](). || ****.
 
 ### Clonal evolution and Intratumor heterogeneity.
 
@@ -68,7 +69,7 @@ Feel free to join this doc :D
 
 
 
-### Algorithms for inference intratumor heterogeneity.
+### Algorithms for inference clonal structure.
 
 - **2012-05** | [Absolute quantification of somatic DNA alterations in human cancer](http://doi.org/10.1038/nbt.2203). | Scott L Carter,	Kristian Cibulskis,	Elena Helman,	Aaron McKenna,	Hui Shen,	Travis Zack, Peter W Laird,	Robert C Onofrio,	Wendy Winckler,	Barbara A Weir,	Rameen Beroukhim, David Pellman,	Douglas A Levine,	Eric S Lander,	Matthew Meyerson	& Gad Getz | **Nature Biotechnology**.
 
@@ -87,6 +88,30 @@ Feel free to join this doc :D
 - **2015-02** | [PhyloWGS: Reconstructing subclonal composition and evolution from whole-genome sequencing of tumors](http://doi.org/10.1186/s13059-015-0602-8). | Amit G Deshwar, Shankar Vembu, Christina K Yung, Gun Ho Jang, Lincoln Stein and Quaid Morris | **Genome Biology**.
 
 - **2016-09** | [FACETS: allele-specific copy number and clonal heterogeneity analysis tool for high-throughput DNA sequencing](http://nar.oxfordjournals.org/content/44/16/e131). | Ronglai Shen and Venkatraman E. Seshan | **Nucleic Acids Research**.
+
+
+
+### Algorithms for inference tumor microenvironment.
+
+
+- **2010-10** | [Probabilistic analysis of gene expression measurements from heterogeneous tissues](http://doi.org/10.1093/bioinformatics/btq406). | Timo Erkkilä, Saara Lehmusvaara, Pekka Ruusuvuori, Tapio Visakorpi, Ilya Shmulevich and Harri Lähdesmäki | **Bioinformatics**.
+
+- **2011-11** | [Population-specific expression analysis (PSEA) reveals molecular changes in diseased brain](http://doi.org/10.1038/nmeth.1710). | Alexandre Kuhn,	Doris Thu,	Henry J Waldvogel,	Richard L M Faull	& Ruth Luthi-Carter | **Nature Methods**.
+
+- **2013-03** | [Computational purification of individual tumor gene expression profiles leads to significant improvements in prognostic prediction](http://doi.org/10.1186/gm433). | Gerald Quon, Syed Haider, Amit G Deshwar, Ang Cui, Paul C Boutros & Quaid Morris | **Genome medicine**.
+
+- **2013-04** | [A mixture model for expression deconvolution from RNA-seq in heterogeneous tissues](http://doi.org/10.1186/1471-2105-14-S5-S11). | Yi Li, Xiaohui Xie | **BMC bioinformatics**.
+
+- **2013-07** | [DeMix: deconvolution for mixed cancer transcriptomes using raw measured data](http://doi.org/10.1093/bioinformatics/btt301). | Jaeil Ahn, Ying Yuan, Giovanni Parmigiani, Milind B. Suraokar, Lixia Diao, Ignacio I. Wistuba and Wenyi Wang | **Bioinformatics**.
+
+- **2013-10** | [Inferring tumour purity and stromal and immune cell admixture from expression data](http://doi.org/10.1038/ncomms3612). | Kosuke Yoshihara, Maria Shahmoradgoli, Emmanuel Martínez, Rahulsimham Vegesna, Hoon Kim, Wandaliz Torres-Garcia, Victor Trevin˜o, Hui Shen, Peter W. Laird, Douglas A. Levine, Scott L. Carter, Gad Getz, Katherine Stemke-Hale, Gordon B. Mills & Roel G.W. Verhaak | **Nature Communications**.
+
+- **2015-01** | [UNDO: A Bioconductor R package for unsupervised deconvolution of mixed gene expressions in tumor samples](http://doi.org/10.1093/bioinformatics/btu607). | Niya Wang, Ting Gong, Robert Clarke, Lulu Chen, Ie-Ming Shih, Zhen Zhang, Douglas A. Levine, Jianhua Xuan1 and Yue Wang | **Bioinformatics**.
+
+- **2015-03** | [Robust enumeration of cell subsets from tissue expression profiles](http://doi.org/10.1038/nmeth.3337). | Aaron M Newman,	Chih Long Liu,	Michael R Green,	Andrew J Gentles,	Weiguo Feng,	Yue Xu,	Chuong D Hoang,	Maximilian Diehn	& Ash A Alizadeh | **Nature Methods**.
+
+- **2016-03** | [contamDE: differential expression analysis of RNA-seq data for contaminated tumor samples](http://doi.org/10.1093/bioinformatics/btv657). | Qi Shen, Jiyuan Hu, Ning Jiang, Xiaohua Hu, Zewei Luo and Hong Zhang | **Bioinformatics**.
+
 
 ### License
 
