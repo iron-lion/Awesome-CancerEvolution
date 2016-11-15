@@ -21,7 +21,8 @@ Feel free to join this doc :D
 - **2012-03** | [Intratumor Heterogeneity and Branched Evolution Revealed by Multiregion Sequencing](http://www.nejm.org/doi/full/10.1056/NEJMoa1113205). | Marco Gerlinger, M.D., Andrew J. Rowan, B.Sc., Stuart Horswell, M.Math., James Larkin, M.D., Ph.D., David Endesfelder, Dip.Math., Eva Gronroos, Ph.D., Pierre Martinez, Ph.D., Nicholas Matthews, B.Sc., Aengus Stewart, M.Sc., Patrick Tarpey, Ph.D., Ignacio Varela, Ph.D., Benjamin Phillimore, B.Sc., Sharmin Begum, M.Sc., Neil Q. McDonald, Ph.D., Adam Butler, B.Sc., David Jones, M.Sc., Keiran Raine, M.Sc., Calli Latimer, B.Sc., Claudio R. Santos, Ph.D., Mahrokh Nohadani, H.N.C., Aron C. Eklund, Ph.D., Bradley Spencer-Dene, Ph.D., Graham Clark, B.Sc., Lisa Pickering, M.D., Ph.D., Gordon Stamp, M.D., Martin Gore, M.D., Ph.D., Zoltan Szallasi, M.D., Julian Downward, Ph.D., P. Andrew Futreal, Ph.D., and Charles Swanton, M.D., Ph.D. | **The New England Journal of Medicine**.
 
 - **2012-04** | [Evolution of the cancer genome](http://doi.org/10.1038/nrg3317). | Yates, Lucy R., and Peter J. Campbell | **Nature Reviews Genetics**.
- 
+
+- **2013-02** | [Variable clonal repopulation dynamics influence chemotherapy response in colorectal cancer](http://doi.org/10.1126/science.1227670). | Antonija Kreso, Catherine A. O'Brien, Peter van Galen, Olga I. Gan, Faiyaz Notta, Andrew M. K. Brown, Karen Ng, Jing Ma, Erno Wienholds, Cyrille Dunant, Aaron Pollett, Steven Gallinger, John McPherson, Charles G. Mullighan, Darryl Shibata, John E. Dick | **Science**.
 
 - **2013-06** | [Evolutionary dynamics of cancer in response to targeted combination therapy](https://elifesciences.org/content/2/e00747). | Ivana Bozic Johannes G Reiter Benjamin Allen Tibor Antal Krishnendu Chatterjee Preya Shah Yo Sup Moon Amin Yaqubie Nicole Kelly Dung T Le Evan J Lipson Paul B Chapman Luis A Diaz Jr Bert Vogelstein Martin A Nowak | **eLife**.
 
@@ -31,9 +32,15 @@ Feel free to join this doc :D
 
 - **2013-11** | [Life history trade-offs in cancer evolution](http://doi.org/10.1038/nrc3606). | C. Athena Aktipis,	Amy M. Boddy,	Robert A. Gatenby,	Joel S. Brown	& Carlo C. Maley | **Nature Reviews Cancer**. 
 
+- **2014-02** | [Inference of tumor evolution during chemotherapy by computational modeling and in situ analysis of genetic and phenotypic cellular diversity](http://doi.org/10.1016/j.celrep.2013.12.041). | Vanessa Almendro, Yu-Kang Cheng, Amanda Randles, Shalev Itzkovitz, Andriy Marusyk, Elisabet Ametller, Xavier Gonzalez-Farre, Montse Munoz, Hege G. Russnes, Aslaug Helland, Inga H. Rye, Anne-Lise Borresen-Dale, Reo Maruyama, Alexander van Oudenaarden, Mitchell Dowsett, Robin L. Jones, Jorge Reis-Filho, Pere Gascon, Mithat Gonen, Franziska Michor, Kornelia Polyak | **Cell Reports**.
+
+- **2014-08** | [Non-cell-autonomous driving of tumour growth supports sub-clonal heterogeneity](http://doi.org/10.1038/nature13556). | Andriy Marusyk,	Doris P. Tabassum,	Philipp M. Altrock,	Vanessa Almendro,	Franziska Michor	& Kornelia Polyak | **Nature**.
+
 - **2014-10** | [Non-cell-autonomous driving of tumour growth supports sub-clonal heterogeneity](http://www.nature.com/nature/journal/v514/n7520/full/nature13556.html). | Andriy Marusyk,	Doris P. Tabassum,	Philipp M. Altrock,	Vanessa Almendro,	Franziska Michor & Kornelia Polyak | **Nature**.
 
 - **2014-10** | [Cancer evolution: mathematical models and computational inference](http://doi.org/10.1093/sysbio/syu081).| Niko Beerenwinkel, Roland F. Schwarz, Moritz Gerstung and Florian Markowetz | **Systematic Biology**. 
+
+- **2015-01** | [Biological and Therapeutic Impact of Intratumor Heterogeneity in Cancer Evolution](http://doi.org/10.1016/j.ccell.2014.12.001). | Nicholas McGranahan and Charles Swanton | **Cancer Cell**.
 
 - **2015-02** | [A Big Bang model of human colorectal tumor growth](http://www.nature.com/ng/journal/v47/n3/full/ng.3214.html). | Andrea Sottoriva,	Haeyoun Kang,	Zhicheng Ma,	Trevor A Graham,	Matthew P Salomon, Junsong Zhao,	Paul Marjoram,	Kimberly Siegmund,	Michael F Press,	Darryl Shibata	& Christina Curtis | **Nature Genetics**.
 
@@ -45,6 +52,7 @@ Feel free to join this doc :D
 
 - **2015-12** | [Clock-like mutational processes in human somatic cells](http://www.nature.com/ng/journal/v47/n12/full/ng.3441.html). | Ludmil B Alexandrov,	Philip H Jones,	David C Wedge,	Julian E Sale,	Peter J Campbell, Serena Nik-Zainal	& Michael R Stratton | **Nature Genetics**.
 
+- **2015-05** | [The evolutionary history of lethal metastatic prostate cancer](http://doi.org/10.1038/nature14347). | Gunes Gundem,	Peter Van Loo,	Barbara Kremeyer,	Ludmil B. Alexandrov,	Jose M. C. Tubio,	Elli Papaemmanuil,	Daniel S. Brewer,	Heini M. L. Kallio,	Gunilla Högnäs,	Matti Annala,	Kati Kivinummi,	Victoria Goody,	Calli Latimer,	Sarah O'Meara,	Kevin J. Dawson, William Isaacs,	Michael R. Emmert-Buck,	Matti Nykter,	Christopher Foster,	Zsofia Kote-Jarai,	Douglas Easton,	Hayley C. Whitaker,	ICGC Prostate UK Group,	David E. Neal,	Colin S. Cooper,	Rosalind A. Eeles,	Tapio Visakorpi,	Peter J. Campbell,	Ultan McDermott,	David C. Wedge	& G. Steven Bova	 | **Nature**.
 
 - **2016-01** | [Identification of neutral tumor evolution across cancer types](http://doi.org/10.1038/ng.3489). | Marc J Williams,	Benjamin Werner,	Chris P Barnes,	Trevor A Graham	& Andrea Sottoriva | **Nature Genetics**. 
 
