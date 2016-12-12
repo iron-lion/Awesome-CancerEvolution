@@ -87,6 +87,8 @@ Feel free to join this doc :D
 
 - **2015-02** | [PhyloWGS: Reconstructing subclonal composition and evolution from whole-genome sequencing of tumors](http://doi.org/10.1186/s13059-015-0602-8). | Amit G Deshwar, Shankar Vembu, Christina K Yung, Gun Ho Jang, Lincoln Stein and Quaid Morris | **Genome Biology**.
 
+- **2015-02** | [Dynamics of genomic clones in breast cancer patient xenografts at single-cell resolution](http://doi.org/10.1038/nature13952). | Peter Eirew,	Adi Steif,	Jaswinder Khattra,	Gavin Ha,	Damian Yap,	Hossein Farahani,	Karen Gelmon,	Stephen Chia,	Colin Mar,	Adrian Wan,	Emma Laks,	Justina Biele,	Karey Shumansky,	Jamie Rosner,	Andrew McPherson,	Cydney Nielsen,	Andrew J. L. Roth,	Calvin Lefebvre,	Ali Bashashati,	Camila de Souza,	Celia Siu,	Radhouane Aniba,	Jazmine Brimhall, Arusha Oloumi,	Tomo Osako,	Alejandra Bruna,	Jose L. Sandoval,	Teresa Algara,	Wendy Greenwood,	Kaston Leung,	Hongwei Cheng,	Hui Xue,	Yuzhuo Wang,	Dong Lin,	Andrew J. Mungall,	Richard Moore,	Yongjun Zhao,	Julie Lorette,	Long Nguyen,	David Huntsman, Connie J. Eaves,	Carl Hansen,	Marco A. Marra,	Carlos Caldas,	Sohrab P. Shah	& Samuel Aparicio	 |**Nature**.
+
 - **2016-09** | [FACETS: allele-specific copy number and clonal heterogeneity analysis tool for high-throughput DNA sequencing](http://nar.oxfordjournals.org/content/44/16/e131). | Ronglai Shen and Venkatraman E. Seshan | **Nucleic Acids Research**.
 
 
@@ -111,6 +113,8 @@ Feel free to join this doc :D
 - **2015-03** | [Robust enumeration of cell subsets from tissue expression profiles](http://doi.org/10.1038/nmeth.3337). | Aaron M Newman,	Chih Long Liu,	Michael R Green,	Andrew J Gentles,	Weiguo Feng,	Yue Xu,	Chuong D Hoang,	Maximilian Diehn	& Ash A Alizadeh | **Nature Methods**.
 
 - **2016-03** | [contamDE: differential expression analysis of RNA-seq data for contaminated tumor samples](http://doi.org/10.1093/bioinformatics/btv657). | Qi Shen, Jiyuan Hu, Ning Jiang, Xiaohua Hu, Zewei Luo and Hong Zhang | **Bioinformatics**.
+
+- **2016-12** | [SiFit: A Method for Inferring Tumor Trees from Single-Cell Sequencing Data under Finite-site Models](http://dx.doi.org/10.1101/091595). | Hamim Zafar, Anthony Tzen, Nicholas Navin, Ken Chen, Luay Nakhleh | **BioRxiv**.
 
 
 ### License
