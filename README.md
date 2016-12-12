@@ -91,6 +91,8 @@ Feel free to join this doc :D
 
 - **2016-09** | [FACETS: allele-specific copy number and clonal heterogeneity analysis tool for high-throughput DNA sequencing](http://nar.oxfordjournals.org/content/44/16/e131). | Ronglai Shen and Venkatraman E. Seshan | **Nucleic Acids Research**.
 
+- **2016-12** | [SiFit: A Method for Inferring Tumor Trees from Single-Cell Sequencing Data under Finite-site Models](http://dx.doi.org/10.1101/091595). | Hamim Zafar, Anthony Tzen, Nicholas Navin, Ken Chen, Luay Nakhleh | **BioRxiv**.
+
 
 
 ### Algorithms for inference tumor microenvironment.
@@ -114,9 +116,7 @@ Feel free to join this doc :D
 
 - **2016-03** | [contamDE: differential expression analysis of RNA-seq data for contaminated tumor samples](http://doi.org/10.1093/bioinformatics/btv657). | Qi Shen, Jiyuan Hu, Ning Jiang, Xiaohua Hu, Zewei Luo and Hong Zhang | **Bioinformatics**.
 
-- **2016-12** | [SiFit: A Method for Inferring Tumor Trees from Single-Cell Sequencing Data under Finite-site Models](http://dx.doi.org/10.1101/091595). | Hamim Zafar, Anthony Tzen, Nicholas Navin, Ken Chen, Luay Nakhleh | **BioRxiv**.
-
-
+- **2016-12** | [Pathway-based dissection of the genomic heterogeneity of cancer hallmarks with SLAPenrich](http://dx.doi.org/10.1101/077701). | Francesco Iorio, Luz Garcia-Alonso, Jonathan Brammeld, Inigo Martincorena, David R Wille, Ultan McDermott, Julio Saez-Rodriguez | **BioRxiv**.
 ### License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
