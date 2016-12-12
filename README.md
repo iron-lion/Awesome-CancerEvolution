@@ -43,6 +43,8 @@ Feel free to join this doc :D
 
 - **2015-02** | [A Big Bang model of human colorectal tumor growth](http://www.nature.com/ng/journal/v47/n3/full/ng.3214.html). | Andrea Sottoriva,	Haeyoun Kang,	Zhicheng Ma,	Trevor A Graham,	Matthew P Salomon, Junsong Zhao,	Paul Marjoram,	Kimberly Siegmund,	Michael F Press,	Darryl Shibata	& Christina Curtis | **Nature Genetics**.
 
+- **2015-02** | [Dynamics of genomic clones in breast cancer patient xenografts at single-cell resolution](http://doi.org/10.1038/nature13952). | Peter Eirew,	Adi Steif,	Jaswinder Khattra,	Gavin Ha,	Damian Yap,	Hossein Farahani,	Karen Gelmon,	Stephen Chia,	Colin Mar,	Adrian Wan,	Emma Laks,	Justina Biele,	Karey Shumansky,	Jamie Rosner,	Andrew McPherson,	Cydney Nielsen,	Andrew J. L. Roth,	Calvin Lefebvre,	Ali Bashashati,	Camila de Souza,	Celia Siu,	Radhouane Aniba,	Jazmine Brimhall, Arusha Oloumi,	Tomo Osako,	Alejandra Bruna,	Jose L. Sandoval,	Teresa Algara,	Wendy Greenwood,	Kaston Leung,	Hongwei Cheng,	Hui Xue,	Yuzhuo Wang,	Dong Lin,	Andrew J. Mungall,	Richard Moore,	Yongjun Zhao,	Julie Lorette,	Long Nguyen,	David Huntsman, Connie J. Eaves,	Carl Hansen,	Marco A. Marra,	Carlos Caldas,	Sohrab P. Shah	& Samuel Aparicio	 |**Nature**.
+
 - **2015-04** | [Therapy-induced tumour secretomes promote resistance and tumour progression](http://doi.org/10.1038/nature14336). | Anna C. Obenauf,	Yilong Zou,	Andrew L. Ji,	Sakari Vanharanta,	Weiping Shu,	Hubing Shi, Xiangju Kong,	Marcus C. Bosenberg,	Thomas Wiesner,	Neal Rosen,	Roger S. Lo	& Joan Massagué | **Nature**.
 
 - **2015-06** | [Solutions to Peto’s paradox revealed by mathematical modelling and cross-species cancer gene analysis](http://doi.org/10.1098/rstb.2014.0222). | Aleah F. Caulin, Trevor A. Graham, Li-San Wang, Carlo C. Maley | **Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences**. 
@@ -86,8 +88,6 @@ Feel free to join this doc :D
 - **2014-10** | [Quantifying tumor heterogeneity in whole-genome and whole-exome sequencing data](http://doi.org/10.1093/bioinformatics/btu651). | Layla Oesper, Gryte Satas and Benjamin J. Raphael | **Bioinformatics**.
 
 - **2015-02** | [PhyloWGS: Reconstructing subclonal composition and evolution from whole-genome sequencing of tumors](http://doi.org/10.1186/s13059-015-0602-8). | Amit G Deshwar, Shankar Vembu, Christina K Yung, Gun Ho Jang, Lincoln Stein and Quaid Morris | **Genome Biology**.
-
-- **2015-02** | [Dynamics of genomic clones in breast cancer patient xenografts at single-cell resolution](http://doi.org/10.1038/nature13952). | Peter Eirew,	Adi Steif,	Jaswinder Khattra,	Gavin Ha,	Damian Yap,	Hossein Farahani,	Karen Gelmon,	Stephen Chia,	Colin Mar,	Adrian Wan,	Emma Laks,	Justina Biele,	Karey Shumansky,	Jamie Rosner,	Andrew McPherson,	Cydney Nielsen,	Andrew J. L. Roth,	Calvin Lefebvre,	Ali Bashashati,	Camila de Souza,	Celia Siu,	Radhouane Aniba,	Jazmine Brimhall, Arusha Oloumi,	Tomo Osako,	Alejandra Bruna,	Jose L. Sandoval,	Teresa Algara,	Wendy Greenwood,	Kaston Leung,	Hongwei Cheng,	Hui Xue,	Yuzhuo Wang,	Dong Lin,	Andrew J. Mungall,	Richard Moore,	Yongjun Zhao,	Julie Lorette,	Long Nguyen,	David Huntsman, Connie J. Eaves,	Carl Hansen,	Marco A. Marra,	Carlos Caldas,	Sohrab P. Shah	& Samuel Aparicio	 |**Nature**.
 
 - **2016-09** | [FACETS: allele-specific copy number and clonal heterogeneity analysis tool for high-throughput DNA sequencing](http://nar.oxfordjournals.org/content/44/16/e131). | Ronglai Shen and Venkatraman E. Seshan | **Nucleic Acids Research**.
 
