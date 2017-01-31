@@ -69,7 +69,9 @@ Feel free to join this doc :D
 
 - **2016-10** | [Natural Selection in Cancer Biology: From Molecular Snowflakes to Trait Hallmarks](http://doi.org/10.1101/cshperspect.a029652). | Angelo Fortunato, Amy Boddy, Diego Mallo, Athena Aktipis, Carlo C. Maley and John W. Pepper | **Cold Spring Harbor Perspectives in Medicine**. 
 
+- **2017-01** | [Tumor Evolution: Linear, Branching, Neutral or Punctuated?](http://dx.doi.org/10.1016/j.bbcan.2017.01.003). | Alexander Davis,  Ruli Gao, Nicholas Navin | **Biochimica et Biophysica Acta (BBA) - Reviews on Cancer**.
 
+- **2017-01** | [Limited heterogeneity of known driver gene mutations among the metastases of individual patients with pancreatic cancer](http://dx.doi.org/10.1038/ng.3764). | Alvin P Makohon-Moore,	Ming Zhang,	Johannes G Reiter,	Ivana Bozic,	Benjamin Allen, Deepanjan Kundu,	Krishnendu Chatterjee,	Fay Wong,	Yuchen Jiao,	Zachary A Kohutek, Jungeui Hong,	Marc Attiyeh,	Breanna Javier,	Laura D Wood,	Ralph H Hruban,	Martin A Nowak,	Nickolas Papadopoulos,	Kenneth W Kinzler,	Bert Vogelstein, Christine A Iacobuzio-Donahue | **Nature Genetics**.
 
 ### Algorithms for inference clonal structure.
 
@@ -117,6 +119,9 @@ Feel free to join this doc :D
 - **2016-03** | [contamDE: differential expression analysis of RNA-seq data for contaminated tumor samples](http://doi.org/10.1093/bioinformatics/btv657). | Qi Shen, Jiyuan Hu, Ning Jiang, Xiaohua Hu, Zewei Luo and Hong Zhang | **Bioinformatics**.
 
 - **2016-12** | [Pathway-based dissection of the genomic heterogeneity of cancer hallmarks with SLAPenrich](http://dx.doi.org/10.1101/077701). | Francesco Iorio, Luz Garcia-Alonso, Jonathan Brammeld, Inigo Martincorena, David R Wille, Ultan McDermott, Julio Saez-Rodriguez | **BioRxiv**.
+
+- **2017-01** | [Estimating and accounting for tumor purity in the analysis of DNA methylation data from cancer studies](http://dx.doi.org/10.1186/s13059-016-1143-5). | Xiaoqi Zheng, Naiqian Zhang, Hua-Jun Wu, Hao WuEmail | **Genome Biology**.
+
 ### License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
