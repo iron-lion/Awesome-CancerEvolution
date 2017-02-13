@@ -125,7 +125,7 @@ Feel free to join this doc :D
 
 - **2016-12** | [Pathway-based dissection of the genomic heterogeneity of cancer hallmarks with SLAPenrich](http://dx.doi.org/10.1101/077701). | Francesco Iorio, Luz Garcia-Alonso, Jonathan Brammeld, Inigo Martincorena, David R Wille, Ultan McDermott, Julio Saez-Rodriguez | **BioRxiv**.
 
-- **2017-01** | [Estimating and accounting for tumor purity in the analysis of DNA methylation data from cancer studies](http://dx.doi.org/10.1186/s13059-016-1143-5). | Xiaoqi Zheng, Naiqian Zhang, Hua-Jun Wu, Hao WuEmail | **Genome Biology**.
+- **2017-01** | [Estimating and accounting for tumor purity in the analysis of DNA methylation data from cancer studies](http://dx.doi.org/10.1186/s13059-016-1143-5). | Xiaoqi Zheng, Naiqian Zhang, Hua-Jun Wu, Hao Wu | **Genome Biology**.
 
 ### License
 
