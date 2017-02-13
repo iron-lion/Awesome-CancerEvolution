@@ -73,6 +73,9 @@ Feel free to join this doc :D
 
 - **2017-01** | [Limited heterogeneity of known driver gene mutations among the metastases of individual patients with pancreatic cancer](http://dx.doi.org/10.1038/ng.3764). | Alvin P Makohon-Moore,	Ming Zhang,	Johannes G Reiter,	Ivana Bozic,	Benjamin Allen, Deepanjan Kundu,	Krishnendu Chatterjee,	Fay Wong,	Yuchen Jiao,	Zachary A Kohutek, Jungeui Hong,	Marc Attiyeh,	Breanna Javier,	Laura D Wood,	Ralph H Hruban,	Martin A Nowak,	Nickolas Papadopoulos,	Kenneth W Kinzler,	Bert Vogelstein, Christine A Iacobuzio-Donahue | **Nature Genetics**.
 
+- **2017-02** | [Extrachromosomal oncogene amplification drives tumour evolution and genetic heterogeneity](http://dx.doi.org/10.1038/nature21356). | Kristen M. Turner, Viraj Deshpande,	Doruk Beyter,	Tomoyuki Koga,	Jessica Ruser/, Catherine Lee, Bin Li,	Karen Arden,	Bing Ren,	David A. Nathanson,	Harley I. Kornblum, Michael D. Taylor,	Sharmeela Kaushal, Webster K. Cavenee, Robert Wechsler-Reya, Frank B. Furnari, Scott R. Vandenberg,	P. Nagesh Rao,	Geoffrey M. Wahl,	Vineet Bafna, Paul S. Mischel | **Nature**.
+
+
 ### Algorithms for inference clonal structure.
 
 - **2012-05** | [Absolute quantification of somatic DNA alterations in human cancer](http://doi.org/10.1038/nbt.2203). | Scott L Carter,	Kristian Cibulskis,	Elena Helman,	Aaron McKenna,	Hui Shen,	Travis Zack, Peter W Laird,	Robert C Onofrio,	Wendy Winckler,	Barbara A Weir,	Rameen Beroukhim, David Pellman,	Douglas A Levine,	Eric S Lander,	Matthew Meyerson	& Gad Getz | **Nature Biotechnology**.
@@ -90,6 +93,8 @@ Feel free to join this doc :D
 - **2014-10** | [Quantifying tumor heterogeneity in whole-genome and whole-exome sequencing data](http://doi.org/10.1093/bioinformatics/btu651). | Layla Oesper, Gryte Satas and Benjamin J. Raphael | **Bioinformatics**.
 
 - **2015-02** | [PhyloWGS: Reconstructing subclonal composition and evolution from whole-genome sequencing of tumors](http://doi.org/10.1186/s13059-015-0602-8). | Amit G Deshwar, Shankar Vembu, Christina K Yung, Gun Ho Jang, Lincoln Stein and Quaid Morris | **Genome Biology**.
+
+- **2015-02** | [BitPhylogeny: a probabilistic framework for reconstructing intra-tumor phylogenies](http://doi.org/10.1186/s13059-015-0592-6). | Ke Yuan, Thomas Sakoparnig, Florian Markowetz, Niko Beerenwinkel | **Genome Biology**.
 
 - **2016-09** | [FACETS: allele-specific copy number and clonal heterogeneity analysis tool for high-throughput DNA sequencing](http://nar.oxfordjournals.org/content/44/16/e131). | Ronglai Shen and Venkatraman E. Seshan | **Nucleic Acids Research**.
 
