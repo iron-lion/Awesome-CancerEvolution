@@ -75,6 +75,9 @@ Feel free to join this doc :D
 
 - **2017-02** | [Extrachromosomal oncogene amplification drives tumour evolution and genetic heterogeneity](http://dx.doi.org/10.1038/nature21356). | Kristen M. Turner, Viraj Deshpande,	Doruk Beyter,	Tomoyuki Koga,	Jessica Ruser/, Catherine Lee, Bin Li,	Karen Arden,	Bing Ren,	David A. Nathanson,	Harley I. Kornblum, Michael D. Taylor,	Sharmeela Kaushal, Webster K. Cavenee, Robert Wechsler-Reya, Frank B. Furnari, Scott R. Vandenberg,	P. Nagesh Rao,	Geoffrey M. Wahl,	Vineet Bafna, Paul S. Mischel | **Nature**.
 
+- **2017-02** | [Clonal Heterogeneity and Tumor Evolution: Past, Present, and the Future](http://dx.doi.org/10.1016/j.cell.2017.01.018). | Nicholas McGranahan, Charles Swanton | **Cell**.
+
+
 
 ### Algorithms for inference clonal structure.
 
