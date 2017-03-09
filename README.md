@@ -65,6 +65,10 @@ Feel free to join this doc :D
 
 - **2016-03** | [Identification of neutral tumor evolution across cancer types](http://www.nature.com/ng/journal/v48/n3/full/ng.3489.html). | Marc J Williams,	Benjamin Werner,	Chris P Barnes,	Trevor A Graham	& Andrea Sottoriva | **Nature Genetics**.
 
+- **2016-03** | [Exploiting Temporal Collateral Sensitivity in Tumor Clonal Evolution](http://dx.doi.org/10.1016/j.cell.2016.01.045). | Boyang Zhao, Joseph C. Sedlak, Raja Srinivas, Pau Creixell, Justin R. Pritchard, Bruce Tidor, Douglas A. Lauffenburger, Michael T. Hemann | **Nature Genetics**.
+
+- **2016-03** | [Tumor cells can follow distinct evolutionary paths to become resistant to epidermal growth factor receptor inhibition](http://doi.org/10.1038/nm.4040). | Aaron N Hata,	Matthew J Niederst,	Hannah L Archibald,	Maria Gomez-Caraballo,	Faria M Siddiqui,	Hillary E Mulvey,	Yosef E Maruvka,	Fei Ji,	Hyo-eun C Bhang,	Viveksagar Krishnamurthy Radhakrishna,	Giulia Siravegna,	Haichuan Hu,	Sana Raoof,	Elizabeth Lockerman,	Anuj Kalsy,	Dana Lee,	Celina L Keating,	David A Ruddy,	Leah J Damon,	Adam S Crystal,	Carlotta Costa,	Zofia Piotrowska,	Alberto Bardelli,	Anthony J Iafrate,	Ruslan I Sadreyev,	Frank Stegmeier,	Gad Getz,	Lecia V Sequist,	Anthony C Faber, Jeffrey A Engelman | **Nature Medicine**.
+
 - **2016-07** | [Clonal evolution of glioblastoma under therapy](http://www.nature.com/ng/journal/v48/n7/full/ng.3590.html). | Jiguang Wang,	Emanuela Cazzato,	Erik Ladewig,	Veronique Frattini,	Daniel I S Rosenbloom,	Sakellarios Zairis,	Francesco Abate,	Zhaoqi Liu,	Oliver Elliott,	Yong-Jae Shin,	Jin-Ku Lee,	In-Hee Lee,	Woong-Yang Park,	Marica Eoli,	Andrew J Blumberg,	Anna Lasorella,	Do-Hyun Nam,	Gaetano Finocchiaro,	Antonio Iavarone	& Raul Rabadan | **Nature Genetics**.
 
 - **2016-10** | [Natural Selection in Cancer Biology: From Molecular Snowflakes to Trait Hallmarks](http://doi.org/10.1101/cshperspect.a029652). | Angelo Fortunato, Amy Boddy, Diego Mallo, Athena Aktipis, Carlo C. Maley and John W. Pepper | **Cold Spring Harbor Perspectives in Medicine**. 
