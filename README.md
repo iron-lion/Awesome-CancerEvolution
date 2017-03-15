@@ -81,6 +81,8 @@ Feel free to join this doc :D
 
 - **2017-02** | [Clonal Heterogeneity and Tumor Evolution: Past, Present, and the Future](http://dx.doi.org/10.1016/j.cell.2017.01.018). | Nicholas McGranahan, Charles Swanton | **Cell**.
 
+- **2017-03** | [A population genetics perspective on the determinants of intra-tumor heterogeneity](http://dx.doi.org/10.1016/j.bbcan.2017.03.001). | Zheng Hu, Ruping Sun, Christina Curtis | **Biochimica et Biophysica Acta (BBA) - Reviews on Cancer**.
+
 
 
 ### Algorithms for inference clonal structure.
