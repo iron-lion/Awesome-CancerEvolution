@@ -83,6 +83,24 @@ Feel free to join this doc :D
 
 - **2017-03** | [A population genetics perspective on the determinants of intra-tumor heterogeneity](http://dx.doi.org/10.1016/j.bbcan.2017.03.001). | Zheng Hu, Ruping Sun, Christina Curtis | **Biochimica et Biophysica Acta (BBA) - Reviews on Cancer**.
 
+- **2017-06** | [MicroRNA-Mediated Dynamic Bidirectional Shift between the Subclasses of Glioblastoma Stem-like Cells](https://doi.org/10.1016/j.celrep.2017.05.040). | Arun K. Rooj, Franz Ricklefs, Marco Mineo, Ichiro Nakano, E. Antonio Chiocca, Agnieszka Bronisz, Jakub Godlewski | **Cell Reports**.
+
+- **2017-07** | [The role of tumour heterogeneity and clonal cooperativity in metastasis, immune evasion and clinical outcome](https://doi.org/10.1186/s12916-017-0900-y). | Deborah R. Caswell, Charles Swanton | **BMC Medicine**.
+
+- **2017-08** | [Multiregional Tumor Trees Are Not Phylogenies](https://doi.org/10.1016/j.trecan.2017.06.004). |João M.Alves, Tamara Prieto, David Posada | **Trends in Cancer**.
+
+- **2017-08** | [Heterogeneous Tumor-Immune Microenvironments among Differentially Growing Metastases in an Ovarian Cancer Patient](http://dx.doi.org/10.1016/j.cell.2017.07.025). | Alejandro Jiménez-Sánchez, Danish Memon, Stephane Pourpe, Harini Veeraraghavan, Yanyun Li, Hebert Alberto Vargas, Michael B. Gill, Kay J. Park, Oliver Zivanovic, Jason Konner, Jacob Ricca, Dmitriy Zamarin, Tyler Walther, Carol Aghajanian, Jedd D. Wolchok, Evis Sala, Taha Merghoub, Alexandra Snyder, Alexandra Snyder, Martin L. Miller | **Cell**.
+
+- **2017-09** | [Biology and evolution of poorly differentiated neuroendocrine tumors](https://doi.org/10.1038/nm.4341). | David S Rickman, Himisha Beltran, Francesca Demichelis & Mark A Rubin | **Nature Medicine**.
+
+- **2017-10** | [Cooperation and cheating as innovation: insights from cellular societies](http://dx.doi.org/10.1098/rstb.2016.0421). | Athena Aktipis, Carlo C. Maley | **Philosophical Transactions of the Royal Society of London. Series B, Biological sciences**.
+
+- **2017-11** | [Universal Patterns of Selection in Cancer and Somatic Tissues](https://doi.org/10.1016/j.cell.2017.09.042). | IñigoMartincorena, Keiran M.Raine, MoritzGerstung, Kevin J.Dawson, KerstinHaase, PeterVan Loo, HelenDavies, Michael R.Stratton, Peter J.Campbell | **Cell**.
+
+- **2017-11** | [Comprehensive Analysis of Hypermutation in Human Cancer](https://doi.org/10.1016/j.cell.2017.09.048). | Campbell BB, Light N, Fabrizio D, Zatzman M, Fuligni F, de Borja R, Davidson S, Edwards M, Elvin JA, Hodel KP, Zahurancik WJ, Suo Z, Lipman T, Wimmer K, Kratz CP, Bowers DC, Laetsch TW, Dunn GP, Johanns TM, Grimmer MR, Smirnov IV, Larouche V, Samuel D, Bronsema A, Osborn M, Stearns D, Raman P, Cole KA, Storm PB, Yalon M, Opocher E, Mason G, Thomas GA, Sabel M, George B, Ziegler DS, Lindhorst S, Issai VM, Constantini S, Toledano H, Elhasid R, Farah R, Dvir R, Dirks P, Huang A, Galati MA, Chung J, Ramaswamy V, Irwin MS, Aronson M, Durno C, Taylor MD, Rechavi G, Maris JM, Bouffet E, Hawkins C, Costello JF, Meyn MS, Pursell ZF, Malkin D, Tabori U, Shlien A. | **Cell**.
+
+- **2017-11** | [Between-region genetic divergence reflects the mode and tempo of tumor evolution](https://doi.org/10.1038/ng.3891). | Ruping Sun, Zheng Hu, Andrea Sottoriva, Trevor A Graham, Arbel Harpak, Zhicheng Ma, Jared M Fischer, Darryl Shibata & Christina Curtis | **Nature Genetics**.
+
 
 
 ### Algorithms for inference clonal structure.
