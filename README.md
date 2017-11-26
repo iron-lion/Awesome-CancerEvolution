@@ -87,7 +87,9 @@ Feel free to join this doc :D
 
 - **2017-07** | [The role of tumour heterogeneity and clonal cooperativity in metastasis, immune evasion and clinical outcome](https://doi.org/10.1186/s12916-017-0900-y). | Deborah R. Caswell, Charles Swanton | **BMC Medicine**.
 
-- **2017-08** | [Multiregional Tumor Trees Are Not Phylogenies](https://doi.org/10.1016/j.trecan.2017.06.004). |João M.Alves, Tamara Prieto, David Posada | **Trends in Cancer**.
+- **2017-08** | [Multiregional Tumor Trees Are Not Phylogenies](https://doi.org/10.1016/j.trecan.2017.06.004). | João M.Alves, Tamara Prieto, David Posada | **Trends in Cancer**.
+
+- **2017-08** | [Genomic Evolution of Breast Cancer Metastasis and Relapse](http://dx.doi.org/10.1016/j.ccell.2017.07.005). | Yates LR, Knappskog S, Wedge D, Farmery JHR, Gonzalez S, Martincorena I, Alexandrov LB, Van Loo P, Haugland HK, Lilleng PK, Gundem G, Gerstung M, Pappaemmanuil E, Gazinska P, Bhosle SG, Jones D, Raine K, Mudie L, Latimer C, Sawyer E, Desmedt C, Sotiriou C, Stratton MR, Sieuwerts AM, Lynch AG, Martens JW, Richardson AL, Tutt A, Lønning PE, Campbell PJ. | **Cancer Cell**.
 
 - **2017-08** | [Heterogeneous Tumor-Immune Microenvironments among Differentially Growing Metastases in an Ovarian Cancer Patient](http://dx.doi.org/10.1016/j.cell.2017.07.025). | Alejandro Jiménez-Sánchez, Danish Memon, Stephane Pourpe, Harini Veeraraghavan, Yanyun Li, Hebert Alberto Vargas, Michael B. Gill, Kay J. Park, Oliver Zivanovic, Jason Konner, Jacob Ricca, Dmitriy Zamarin, Tyler Walther, Carol Aghajanian, Jedd D. Wolchok, Evis Sala, Taha Merghoub, Alexandra Snyder, Alexandra Snyder, Martin L. Miller | **Cell**.
 
