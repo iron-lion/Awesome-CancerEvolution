@@ -103,8 +103,6 @@ Feel free to join this doc :D
 
 - **2017-11** | [Between-region genetic divergence reflects the mode and tempo of tumor evolution](https://doi.org/10.1038/ng.3891). | Ruping Sun, Zheng Hu, Andrea Sottoriva, Trevor A Graham, Arbel Harpak, Zhicheng Ma, Jared M Fischer, Darryl Shibata & Christina Curtis | **Nature Genetics**.
 
-
-
 ### Algorithms for inference clonal structure.
 
 - **2012-05** | [Absolute quantification of somatic DNA alterations in human cancer](http://doi.org/10.1038/nbt.2203). | Scott L Carter,	Kristian Cibulskis,	Elena Helman,	Aaron McKenna,	Hui Shen,	Travis Zack, Peter W Laird,	Robert C Onofrio,	Wendy Winckler,	Barbara A Weir,	Rameen Beroukhim, David Pellman,	Douglas A Levine,	Eric S Lander,	Matthew Meyerson	& Gad Getz | **Nature Biotechnology**.
@@ -155,6 +153,12 @@ Feel free to join this doc :D
 - **2016-12** | [Pathway-based dissection of the genomic heterogeneity of cancer hallmarks with SLAPenrich](http://dx.doi.org/10.1101/077701). | Francesco Iorio, Luz Garcia-Alonso, Jonathan Brammeld, Inigo Martincorena, David R Wille, Ultan McDermott, Julio Saez-Rodriguez | **BioRxiv**.
 
 - **2017-01** | [Estimating and accounting for tumor purity in the analysis of DNA methylation data from cancer studies](http://dx.doi.org/10.1186/s13059-016-1143-5). | Xiaoqi Zheng, Naiqian Zhang, Hua-Jun Wu, Hao Wu | **Genome Biology**.
+
+### Review in deconvolution method for transcriptome
+
+- **2018-06** | [Computational deconvolution of transcriptomics data from mixed cell populations](https://doi.org/10.1093/bioinformatics/bty019). | Francisco Avila Cobos,  Jo Vandesompele,  Pieter Mestdagh,  Katleen De Preter | **Bioinformatics**.
+
+- **2019-01** | [Comprehensive evaluation of computational cell-type quantification methods for immuno-oncology](https://doi.org/10.1101/463828). |  Gregor Sturm,  Francesca Finotello,  Florent Petitprez,  Jitao David Zhang,  Jan Baumbach, Wolf H Fridman,  Markus List, Tatsiana Aneichyk| **BioRxiv**.
 
 ### License
 
