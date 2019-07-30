@@ -103,7 +103,13 @@ Feel free to join this doc :D
 
 - **2017-11** | [Between-region genetic divergence reflects the mode and tempo of tumor evolution](https://doi.org/10.1038/ng.3891). | Ruping Sun, Zheng Hu, Andrea Sottoriva, Trevor A Graham, Arbel Harpak, Zhicheng Ma, Jared M Fischer, Darryl Shibata & Christina Curtis | **Nature Genetics**.
 
+- **2018-04** | [Overview on Clinical Relevance of Intra-Tumor Heterogeneity](https://doi.org/10.3389/fmed.2018.00085). | Giorgio Stanta, imageSerena Bonin | **Frontiers in Medicine**.
+
+- **2019-05** | [Monogenic and polygenic inheritance become instruments for clonal selection](https://doi.org/10.1101/653691). | Po-Ru Loh, Giulio Genovese, Steven A McCarroll | **BioRxiv**.
+
 ### Algorithms for inference clonal structure.
+
+#### !!check out this page!! [link](http://sysbio.suda.edu.cn/tumor_heterogeneity/method.html)
 
 - **2012-05** | [Absolute quantification of somatic DNA alterations in human cancer](http://doi.org/10.1038/nbt.2203). | Scott L Carter,	Kristian Cibulskis,	Elena Helman,	Aaron McKenna,	Hui Shen,	Travis Zack, Peter W Laird,	Robert C Onofrio,	Wendy Winckler,	Barbara A Weir,	Rameen Beroukhim, David Pellman,	Douglas A Levine,	Eric S Lander,	Matthew Meyerson	& Gad Getz | **Nature Biotechnology**.
 
@@ -127,10 +133,13 @@ Feel free to join this doc :D
 
 - **2016-12** | [SiFit: A Method for Inferring Tumor Trees from Single-Cell Sequencing Data under Finite-site Models](http://dx.doi.org/10.1101/091595). | Hamim Zafar, Anthony Tzen, Nicholas Navin, Ken Chen, Luay Nakhleh | **BioRxiv**.
 
+- **2019-03** | [Cell composition analysis of bulk genomics using single-cell data](https://doi.org/10.1038/s41592-019-0355-5). | Amit Frishberg, Naama Peshes-Yaloz, Ofir Cohn, Diana Rosentul, Yael Steuerman, Liran Valadarsky, Gal Yankovitz, Michal Mandelboim, Fuad A. Iraqi, Ido Amit, Lior Mayo, Eran Bacharach, Irit Gat-Viks  | **Nature Methods**
 
+### Review in inference methods for reconstructing population of genomic clones
+
+- **2018-07** | [Distribution-based measures of tumor heterogeneity are sensitive to mutation calling and lack strong clinical predictive power](https://www.nature.com/articles/s41598-018-29154-7). | Javad Noorbakhsh, Hyunsoo Kim, Sandeep Namburi, Jeffrey H. Chuang | **Scientific Reports**.
 
 ### Algorithms for inference tumor microenvironment.
-
 
 - **2010-10** | [Probabilistic analysis of gene expression measurements from heterogeneous tissues](http://doi.org/10.1093/bioinformatics/btq406). | Timo Erkkilä, Saara Lehmusvaara, Pekka Ruusuvuori, Tapio Visakorpi, Ilya Shmulevich and Harri Lähdesmäki | **Bioinformatics**.
 
@@ -154,11 +163,13 @@ Feel free to join this doc :D
 
 - **2017-01** | [Estimating and accounting for tumor purity in the analysis of DNA methylation data from cancer studies](http://dx.doi.org/10.1186/s13059-016-1143-5). | Xiaoqi Zheng, Naiqian Zhang, Hua-Jun Wu, Hao Wu | **Genome Biology**.
 
+- **2019-01** | [Bulk tissue cell type deconvolution with multi-subject single-cell expression reference](https://doi.org/10.1038/s41467-018-08023-x). | Xuran Wang, Jihwan Park, Katalin Susztak, Nancy R. Zhang, Mingyao Li  | **Nature Communications**.
+
 ### Review in deconvolution method for transcriptome
 
 - **2018-06** | [Computational deconvolution of transcriptomics data from mixed cell populations](https://doi.org/10.1093/bioinformatics/bty019). | Francisco Avila Cobos,  Jo Vandesompele,  Pieter Mestdagh,  Katleen De Preter | **Bioinformatics**.
 
-- **2019-01** | [Comprehensive evaluation of computational cell-type quantification methods for immuno-oncology](https://doi.org/10.1101/463828). |  Gregor Sturm,  Francesca Finotello,  Florent Petitprez,  Jitao David Zhang,  Jan Baumbach, Wolf H Fridman,  Markus List, Tatsiana Aneichyk| **BioRxiv**.
+- **2019-01** | [Comprehensive evaluation of computational cell-type quantification methods for immuno-oncology](https://doi.org/10.1101/463828). |  Gregor Sturm,  Francesca Finotello,  Florent Petitprez,  Jitao David Zhang,  Jan Baumbach, Wolf H Fridman,  Markus List, Tatsiana Aneichyk | **BioRxiv**.
 
 ### License
 
