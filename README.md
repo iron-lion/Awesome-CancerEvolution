@@ -2,8 +2,10 @@
 
 Papers for studying cancer evolution.
 
-Feel free to join this doc :D
-- **20??-??** | [](). || ****.
+No update since 30 Jul 2019.
+You can check related contents in published paper, [Towards multi-omics characterization of tumor heterogeneity: a comprehensive review of statistical and machine learning approaches](https://doi.org/10.1093/bib/bbaa188).
+
+Thanks.
 
 ### Clonal evolution and Intratumor heterogeneity.
 
